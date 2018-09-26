@@ -25,7 +25,7 @@ td:nth-child(3n) {
 tr:first-child {
     border-top:solid;
 }
-tr:nth-child(3n) td {
+tr:nth-child(3n) td{
     border-bottom:solid ;
 
 }
